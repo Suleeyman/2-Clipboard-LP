@@ -229,6 +229,11 @@ ul .logo-link {
     #logo-list {
         display: flex;
         align-items: center;
+        justify-content: space-around;
+    }
+
+    .section--summary ul li {
+        width: 400px;
     }
 
     #logo-list {
