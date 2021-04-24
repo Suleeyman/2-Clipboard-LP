@@ -42,5 +42,4 @@ And I tried to organise my CSS file with basic comments.
 
 ## Author
 
-- Website - [Suleyman](https://www.your-site.com)
 - Frontend Mentor - [@Suleeyman](https://www.frontendmentor.io/profile/Suleeyman)
