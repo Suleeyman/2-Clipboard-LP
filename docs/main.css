@@ -29,7 +29,7 @@ body {
 *====      ====*/
 
 #header {
-    background: url(../images/bg-header-mobile.png) center/cover no-repeat;
+    background: url(./bg-header-mobile.png) center/cover no-repeat;
     text-align: center;
     padding-top: 100px;
     padding: 100px 20px 0;
@@ -214,7 +214,7 @@ ul .logo-link {
 
 @media only screen and (min-width: 752px) {
     #header {
-        background: url(../images/bg-header-desktop.png) center/cover no-repeat;
+        background: url(./bg-header-desktop.png) center/cover no-repeat;
     }
     .button-content {
         flex-direction: row;
