@@ -21,7 +21,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-basic-css-t7LMt_ObA)
-- Live Site URL: [Github page](https://suleeyman.github.io/2-Clipboard-LP/)
+- Live Site URL: [Github page](https://suleeyman.github.io/FM-2-Clipboard-LP/)
 
 ## My process
 
